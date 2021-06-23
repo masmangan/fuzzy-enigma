@@ -1,6 +1,13 @@
+// Direitos Autorais, 2021, Escola Politécnica, PUCRS
 
+/**
+ * @author Marco Mangan (marco.mangan@pucrs.br)
+ */
 public class MainApp
 {
+    /**
+     * 
+     */
     public static void main(String[] args)
     {
         BankAccount c1;  //
