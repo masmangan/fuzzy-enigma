@@ -52,10 +52,7 @@ public class BankAccount
      */
     public BankAccount(String cpf) // construtor
     {
-        checkCpf(cpf);
-        
-        this.balance = 10000.0;
-        this.cpf = cpf;
+        this(10000.00, cpf);
     }    
     
     /**
