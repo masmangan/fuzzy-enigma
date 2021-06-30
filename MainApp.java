@@ -34,7 +34,7 @@ public class MainApp
         // System.out.println(x.getDay());
         
         // c1.deposit(200.0);
-        // c2.deposit(450.0);
+        // c2.deposit(450.0); 
         
         BankAccount[] cs;
         cs = new BankAccount[] { 
